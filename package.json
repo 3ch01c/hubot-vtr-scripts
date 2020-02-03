@@ -22,7 +22,7 @@
 
   "dependencies": {
     "cheerio": "~0.12.4",
-    "coffee-script": "~1.6",
+    "coffee-script": "~1.12",
     "hubot-scripts": "https://github.com/github/hubot-scripts/tarball/master"
   },
 
