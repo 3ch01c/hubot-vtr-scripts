@@ -32,7 +32,7 @@
     "sinon-chai": "*",
     "sinon": "*",
     "jasmine-node": "latest",
-    "jasmine-reporters": "~0.4"
+    "jasmine-reporters": "~2.4"
   },
 
   "scripts":{
